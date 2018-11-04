@@ -22,9 +22,27 @@ header {
 h1 {
   background-color: #4aaaa5;
   color: #fff;
+  height: 100%;
+  padding: 8%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .navbar {
   position: relative;
   float: right;
+  font-family: 'Montserrat', sans-serif;
+  padding: 5%;
+}
+
+.marg {
+  margin: 3%;
+}
+
+.pt {
+  padding-top: 3%;
+}
+
+footer {
+  background-color: #777;
+  height: 80px;
 }
