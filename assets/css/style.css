@@ -42,6 +42,10 @@ h1 {
   padding-top: 3%;
 }
 
+.mr {
+  margin-right: 25px;
+}
+
 footer {
   background-color: #777;
   height: 80px;
