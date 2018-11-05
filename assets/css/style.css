@@ -46,6 +46,10 @@ h1 {
   margin-right: 25px;
 }
 
+.mh250 {
+  max-height: 100px;
+}
+
 footer {
   background-color: #777;
   height: 80px;
