@@ -50,6 +50,10 @@ h1 {
   max-height: 100px;
 }
 
+.ml {
+  margin-left: 20%
+}
+
 footer {
   background-color: #777;
   color: #fff;
